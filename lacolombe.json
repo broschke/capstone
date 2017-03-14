@@ -1,0 +1,940 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "58c4577b6a607125f69092e6"
+    },
+    "response": {
+        "venue": {
+            "allowMenuUrlEdit": true,
+            "attributes": {
+                "groups": [
+                    {
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Price",
+                                "displayValue": "$",
+                                "priceTier": 1
+                            }
+                        ],
+                        "name": "Price",
+                        "summary": "$",
+                        "type": "price"
+                    },
+                    {
+                        "count": 7,
+                        "items": [
+                            {
+                                "displayName": "Credit Cards",
+                                "displayValue": "Yes"
+                            }
+                        ],
+                        "name": "Credit Cards",
+                        "summary": "Credit Cards",
+                        "type": "payments"
+                    },
+                    {
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Outdoor Seating",
+                                "displayValue": "Yes"
+                            }
+                        ],
+                        "name": "Outdoor Seating",
+                        "summary": "Outdoor Seating",
+                        "type": "outdoorSeating"
+                    },
+                    {
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wi-Fi",
+                                "displayValue": "No"
+                            }
+                        ],
+                        "name": "Wi-Fi",
+                        "type": "wifi"
+                    },
+                    {
+                        "count": 8,
+                        "items": [
+                            {
+                                "displayName": "Breakfast",
+                                "displayValue": "Breakfast"
+                            }
+                        ],
+                        "name": "Menus",
+                        "summary": "Breakfast",
+                        "type": "serves"
+                    },
+                    {
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Restroom",
+                                "displayValue": "Yes"
+                            }
+                        ],
+                        "name": "Restroom",
+                        "summary": "Restroom",
+                        "type": "restroom"
+                    },
+                    {
+                        "count": 1,
+                        "items": [
+                            {
+                                "displayName": "Wheelchair Accessible",
+                                "displayValue": "Yes"
+                            }
+                        ],
+                        "name": "Wheelchair Accessible",
+                        "summary": "Wheelchair Accessible",
+                        "type": "wheelchairAccessible"
+                    }
+                ]
+            },
+            "beenHere": {
+                "count": 0,
+                "lastCheckinExpiredAt": 0,
+                "marked": false,
+                "unconfirmedCount": 0
+            },
+            "bestPhoto": {
+                "createdAt": 1391261523,
+                "height": 720,
+                "id": "52ecf753498e4f0b6c5f5b7b",
+                "prefix": "https://igx.4sqi.net/img/general/",
+                "source": {
+                    "name": "Foursquare for iOS",
+                    "url": "https://foursquare.com/download/#/iphone"
+                },
+                "suffix": "/4434515_C3fSs-yff3u3-t0zB8vUh_flRC633bt3M2nz3I_g6kA.jpg",
+                "visibility": "public",
+                "width": 720
+            },
+            "canonicalUrl": "https://foursquare.com/v/la-colombe-torrefaction/512f9781183f26d8006f53cb",
+            "categories": [
+                {
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    },
+                    "id": "4bf58dd8d48988d1e0931735",
+                    "name": "Coffee Shop",
+                    "pluralName": "Coffee Shops",
+                    "primary": true,
+                    "shortName": "Coffee Shop"
+                }
+            ],
+            "contact": {
+                "facebook": "115821398479932",
+                "facebookName": "La Colombe Coffee Roasters",
+                "facebookUsername": "lacolombetorrefaction",
+                "formattedPhone": "(202) 289-4850",
+                "phone": "2022894850",
+                "twitter": "lacolombecoffee"
+            },
+            "createdAt": 1362073473,
+            "dislike": false,
+            "hereNow": {
+                "count": 0,
+                "groups": [],
+                "summary": "Nobody here"
+            },
+            "hours": {
+                "isLocalHoliday": false,
+                "isOpen": true,
+                "status": "Open until 7:00 PM",
+                "timeframes": [
+                    {
+                        "days": "Mon\u2013Fri",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sat\u2013Sun",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "id": "512f9781183f26d8006f53cb",
+            "inbox": {
+                "count": 0,
+                "items": []
+            },
+            "justifications": [
+                {
+                    "actionType": "BestXinGeo",
+                    "entities": [
+                        {
+                            "indices": [
+                                4,
+                                6
+                            ],
+                            "type": "bold"
+                        },
+                        {
+                            "id": "52cb360d498e49ae1f58c952",
+                            "indices": [
+                                7,
+                                19
+                            ],
+                            "text": "coffee",
+                            "type": "tip_taste_match"
+                        },
+                        {
+                            "indices": [
+                                23,
+                                33
+                            ],
+                            "type": "bold"
+                        }
+                    ],
+                    "forward": false,
+                    "icon": {
+                        "name": "/justifications_bestlist_20161027.png",
+                        "prefix": "https://irs1.4sqi.net/img/general/cap/",
+                        "sizes": [
+                            30,
+                            45,
+                            60,
+                            90,
+                            120
+                        ]
+                    },
+                    "target": {
+                        "object": {
+                            "url": "/top-places/washington-dc/best-coffee-shops"
+                        },
+                        "type": "path"
+                    },
+                    "text": "The #1 coffee shops in Washington",
+                    "type": "BestXinGeo",
+                    "users": {
+                        "count": 0
+                    }
+                },
+                {
+                    "actionType": "ListAndGuide",
+                    "entities": [
+                        {
+                            "id": "135079231",
+                            "indices": [
+                                3,
+                                22
+                            ],
+                            "type": "page"
+                        },
+                        {
+                            "id": "565f39d6498e232de2800c23",
+                            "indices": [
+                                25,
+                                67
+                            ],
+                            "type": "list",
+                            "url": "/p/foursquare-insiders/135079231/list/the-foursquare-insiders-perfect-day-in-dc"
+                        }
+                    ],
+                    "forward": true,
+                    "icon": {
+                        "name": "/justifications_listandguide_20161027.png",
+                        "prefix": "https://irs1.4sqi.net/img/general/cap/",
+                        "sizes": [
+                            30,
+                            45,
+                            60,
+                            90,
+                            120
+                        ]
+                    },
+                    "target": {
+                        "object": {
+                            "id": "58c4577bf229950961f2de1c",
+                            "target": {
+                                "type": "path",
+                                "url": "/lists/565f39d6498e232de2800c23"
+                            }
+                        },
+                        "type": "navigation"
+                    },
+                    "text": "On Foursquare Insiders's The Foursquare Insider's Perfect Day in DC",
+                    "type": "ListAndGuide",
+                    "users": {
+                        "count": 0
+                    }
+                }
+            ],
+            "likes": {
+                "count": 425,
+                "groups": [],
+                "summary": "425 Likes"
+            },
+            "location": {
+                "address": "924 N St NW Rear",
+                "cc": "US",
+                "city": "Washington",
+                "country": "United States",
+                "crossStreet": "Blagden Alley",
+                "formattedAddress": [
+                    "924 N St NW Rear (Blagden Alley)",
+                    "Washington, D.C. 20001",
+                    "United States"
+                ],
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 38.90644654121618,
+                        "lng": -77.02494263648987
+                    }
+                ],
+                "lat": 38.90644654121618,
+                "lng": -77.02494263648987,
+                "postalCode": "20001",
+                "state": "D.C."
+            },
+            "name": "La Colombe Torrefaction",
+            "ok": false,
+            "page": {
+                "pageInfo": {
+                    "banner": "https://is1.4sqi.net/userpix/VDAEZUFWIPYIN2L5.jpg",
+                    "description": "La Colombe\u2019s mission is to consistently provide the finest quality coffee to establishments which display a real interest in serving premium grade products to their clientele. In this we accept the challenge to be the premier coffee roasting company in the United States, setting benchmarks for taste, service and knowledge. All efforts any member of La Colombe makes is to this end.",
+                    "links": {
+                        "count": 1,
+                        "items": [
+                            {
+                                "url": "http://www.lacolombe.com"
+                            }
+                        ]
+                    }
+                },
+                "user": {
+                    "bio": "",
+                    "contact": {
+                        "facebook": "115821398479932",
+                        "twitter": "lacolombecoffee"
+                    },
+                    "firstName": "La Colombe Coffee",
+                    "gender": "none",
+                    "homeCity": "USA",
+                    "id": "23347314",
+                    "lists": {
+                        "groups": [
+                            {
+                                "count": 2,
+                                "items": [],
+                                "type": "created"
+                            }
+                        ]
+                    },
+                    "photo": {
+                        "prefix": "https://igx.4sqi.net/img/user/",
+                        "suffix": "/4TZM55KBQ3YJQ0LX.png"
+                    },
+                    "tips": {
+                        "count": 0
+                    },
+                    "type": "chain"
+                }
+            },
+            "pageUpdates": {
+                "count": 0,
+                "items": []
+            },
+            "photos": {
+                "count": 247,
+                "groups": [
+                    {
+                        "count": 247,
+                        "items": [
+                            {
+                                "createdAt": 1391261523,
+                                "height": 720,
+                                "id": "52ecf753498e4f0b6c5f5b7b",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "suffix": "/4434515_C3fSs-yff3u3-t0zB8vUh_flRC633bt3M2nz3I_g6kA.jpg",
+                                "user": {
+                                    "firstName": "Roger",
+                                    "gender": "male",
+                                    "id": "4434515",
+                                    "lastName": "Dash",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/4434515-E5SYLZBG01RFU2UU.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 720
+                            },
+                            {
+                                "createdAt": 1392043905,
+                                "height": 960,
+                                "id": "52f8e781498e41ece9d2e5f0",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Foursquare for iOS",
+                                    "url": "https://foursquare.com/download/#/iphone"
+                                },
+                                "suffix": "/27977_Xofb1u_kgmHGIHBwtn4tXuYFIFx4ic-jnNW5-QdT9-U.jpg",
+                                "user": {
+                                    "firstName": "Justin",
+                                    "gender": "male",
+                                    "id": "27977",
+                                    "lastName": "Grimes",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/THQSFUZ4AF4ZN4DI.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 720
+                            },
+                            {
+                                "createdAt": 1407440652,
+                                "height": 720,
+                                "id": "53e3d70c498eb9221e0b1801",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "suffix": "/5479186_oqC6DZcTXXMSXm-572Lu3OolI_2qObdyTQw9-BJwF4Y.jpg",
+                                "user": {
+                                    "firstName": "Kristen",
+                                    "gender": "female",
+                                    "id": "5479186",
+                                    "lastName": "K",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/5479186-05GROEZYUZF1BT2S.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 720
+                            },
+                            {
+                                "createdAt": 1460205389,
+                                "height": 1440,
+                                "id": "5708f74d498e0564434a21da",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "suffix": "/84563713_NgJpEN2WPqkUP-j18yAt21kgBA_9C7cqUzw30mkupUA.jpg",
+                                "user": {
+                                    "firstName": "Cesar",
+                                    "gender": "male",
+                                    "id": "84563713",
+                                    "lastName": "Calderon",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/84563713-DCNIN4NHNNMTI0EJ.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 1920
+                            },
+                            {
+                                "createdAt": 1412115289,
+                                "height": 960,
+                                "id": "542b2b59498e7afb544d09da",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Swarm for iOS",
+                                    "url": "https://www.swarmapp.com"
+                                },
+                                "suffix": "/60405405_DII2pZ2tQJB3_ukCqrDs0AVbkuc_8SGiE6axhQuw-vs.jpg",
+                                "user": {
+                                    "firstName": "Paige",
+                                    "gender": "female",
+                                    "id": "60405405",
+                                    "lastName": "Nicole",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/60405405-D2PP0EW1R1OZYILS.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 720
+                            },
+                            {
+                                "createdAt": 1393180464,
+                                "height": 640,
+                                "id": "530a3f3011d24803dd7d54d3",
+                                "prefix": "https://igx.4sqi.net/img/general/",
+                                "source": {
+                                    "name": "Instagram",
+                                    "url": "http://instagram.com"
+                                },
+                                "suffix": "/473871_ZVztXayRzgJGT9lGlhZ0qhMQ5LEP86wmhfMHAKZBi6k.jpg",
+                                "user": {
+                                    "firstName": "Graves",
+                                    "gender": "male",
+                                    "id": "473871",
+                                    "lastName": "Spindler",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/V2KLQRKUVB24ECVU.jpg"
+                                    }
+                                },
+                                "visibility": "public",
+                                "width": 640
+                            }
+                        ],
+                        "name": "Venue photos",
+                        "type": "venue"
+                    }
+                ]
+            },
+            "phrases": [
+                {
+                    "count": 2,
+                    "phrase": "best coffee shop in dc",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Best coffee shop in DC!"
+                    }
+                },
+                {
+                    "count": 2,
+                    "phrase": "todd carmichael",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    23,
+                                    38
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "... a unique bean from Todd Carmichael's global search for the best single origin..."
+                    }
+                },
+                {
+                    "count": 2,
+                    "phrase": "cardamom pistachio",
+                    "sample": {
+                        "entities": [
+                            {
+                                "indices": [
+                                    0,
+                                    18
+                                ],
+                                "type": "keyPhrase"
+                            }
+                        ],
+                        "text": "Cardamom pistachio morning bun, FTW."
+                    }
+                }
+            ],
+            "popular": {
+                "isLocalHoliday": false,
+                "isOpen": true,
+                "status": "Likely open",
+                "timeframes": [
+                    {
+                        "days": "Today",
+                        "includesToday": true,
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20137:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Sun",
+                        "open": [
+                            {
+                                "renderedTime": "8:00 AM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Mon\u2013Tue",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20133:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Wed",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201311:00 AM"
+                            },
+                            {
+                                "renderedTime": "2:00 PM\u20133:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Thu",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u201311:00 AM"
+                            },
+                            {
+                                "renderedTime": "3:00 PM\u20134:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    },
+                    {
+                        "days": "Fri",
+                        "open": [
+                            {
+                                "renderedTime": "7:00 AM\u20136:00 PM"
+                            }
+                        ],
+                        "segments": []
+                    }
+                ]
+            },
+            "price": {
+                "currency": "$",
+                "message": "Cheap",
+                "tier": 1
+            },
+            "rating": 9.4,
+            "ratingSignals": 521,
+            "reasons": {
+                "count": 1,
+                "items": [
+                    {
+                        "reasonName": "rawLikesReason",
+                        "summary": "Lots of people like this place",
+                        "type": "general"
+                    }
+                ]
+            },
+            "shortUrl": "http://4sq.com/XMTcHV",
+            "specials": {
+                "count": 0,
+                "items": []
+            },
+            "stats": {
+                "checkinsCount": 5762,
+                "tipCount": 110,
+                "usersCount": 3434,
+                "visitsCount": 9264
+            },
+            "tags": [],
+            "timeZone": "America/New_York",
+            "tips": {
+                "count": 110,
+                "groups": [
+                    {
+                        "count": 110,
+                        "items": [
+                            {
+                                "agreeCount": 0,
+                                "canonicalUrl": "https://foursquare.com/item/5599f5bf498eada5b438eb27",
+                                "createdAt": 1436153279,
+                                "disagreeCount": 0,
+                                "id": "5599f5bf498eada5b438eb27",
+                                "justification": {
+                                    "justificationType": "expertise",
+                                    "message": "Expertise in Coffee Shops"
+                                },
+                                "lang": "en",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "logView": true,
+                                "photo": {
+                                    "createdAt": 1436153279,
+                                    "height": 960,
+                                    "id": "5599f5bf498eada5b438eb26",
+                                    "prefix": "https://igx.4sqi.net/img/general/",
+                                    "source": {
+                                        "name": "Swarm for iOS",
+                                        "url": "https://www.swarmapp.com"
+                                    },
+                                    "suffix": "/4951864_YSsYS_v7aCRX4dsLlF6SztvwDBbC5FnzEXhGhlPad8Y.jpg",
+                                    "visibility": "public",
+                                    "width": 720
+                                },
+                                "photourl": "https://igx.4sqi.net/img/general/original/4951864_YSsYS_v7aCRX4dsLlF6SztvwDBbC5FnzEXhGhlPad8Y.jpg",
+                                "saves": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "text": "Don't expect to be able to easily find a seat on a weekend. Great place to relax or catch up with a friend at. Coffee beans make a good gift, too. They have hemp milk, if that's your thing.",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Kaz",
+                                    "gender": "male",
+                                    "id": "4951864",
+                                    "lastName": "K.",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/4951864-4ECKM5EFWX5YYR0W.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "agreeCount": 0,
+                                "authorInteractionType": "liked",
+                                "canonicalUrl": "https://foursquare.com/item/54de516c498e046d052a453b",
+                                "createdAt": 1423855980,
+                                "disagreeCount": 0,
+                                "id": "54de516c498e046d052a453b",
+                                "lang": "en",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "logView": true,
+                                "photo": {
+                                    "createdAt": 1423855982,
+                                    "height": 960,
+                                    "id": "54de516e498e6b62de9fa356",
+                                    "prefix": "https://igx.4sqi.net/img/general/",
+                                    "source": {
+                                        "name": "Foursquare for Android",
+                                        "url": "https://foursquare.com/download/#/android"
+                                    },
+                                    "suffix": "/787596_I-g-ye4PRkIkR0pvuib8ajNFm0l9Y1fscb4B3WMpgrM.jpg",
+                                    "visibility": "public",
+                                    "width": 720
+                                },
+                                "photourl": "https://igx.4sqi.net/img/general/original/787596_I-g-ye4PRkIkR0pvuib8ajNFm0l9Y1fscb4B3WMpgrM.jpg",
+                                "saves": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "text": "I know nothing about coffee other than I don't sleep when I have it and other people seem to have strong opinions. This is the best espresso drink I've ever had. Nice lady at the counter helped me.",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Jaclyn",
+                                    "gender": "none",
+                                    "id": "787596",
+                                    "lastName": "C",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/IRKTQSIMMMIRYKVH.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "agreeCount": 0,
+                                "authorInteractionType": "liked",
+                                "canonicalUrl": "https://foursquare.com/item/57532816498e2dbd61e58b59",
+                                "createdAt": 1465067542,
+                                "disagreeCount": 0,
+                                "id": "57532816498e2dbd61e58b59",
+                                "lang": "en",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "logView": true,
+                                "photo": {
+                                    "createdAt": 1465067544,
+                                    "height": 1836,
+                                    "id": "57532818498e07a4d3d020ec",
+                                    "prefix": "https://igx.4sqi.net/img/general/",
+                                    "source": {
+                                        "name": "Foursquare for Android",
+                                        "url": "https://foursquare.com/download/#/android"
+                                    },
+                                    "suffix": "/197754021_bqaVLooW-wXHItkzBA5nxkEVKdE5mlPtOiFUT1te_Bg.jpg",
+                                    "visibility": "public",
+                                    "width": 3264
+                                },
+                                "photourl": "https://igx.4sqi.net/img/general/original/197754021_bqaVLooW-wXHItkzBA5nxkEVKdE5mlPtOiFUT1te_Bg.jpg",
+                                "saves": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "text": "Incredible! Best hidden coffee in town. Everything is delicious - we came back again the same day to try the unique drinks. Excellent traditional drinks as well. Friendly staff and customers.",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Gretchen",
+                                    "gender": "none",
+                                    "id": "197754021",
+                                    "lastName": "Kaag",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/197754021-IVWPRNSCGQTHUQM2.png"
+                                    }
+                                }
+                            },
+                            {
+                                "agreeCount": 0,
+                                "authorInteractionType": "liked",
+                                "canonicalUrl": "https://foursquare.com/item/55a1804e498efdefe9a2aba3",
+                                "createdAt": 1436647502,
+                                "disagreeCount": 0,
+                                "id": "55a1804e498efdefe9a2aba3",
+                                "justification": {
+                                    "justificationType": "expertise",
+                                    "message": "Expertise in Coffee Shops"
+                                },
+                                "lang": "en",
+                                "likes": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "logView": true,
+                                "saves": {
+                                    "count": 0,
+                                    "groups": []
+                                },
+                                "text": "One of the best coffee shops in DC. It's located in an alley so it can be a pain to locate the first time, but the coffee is well worth searching for. The baristas are awesome and the prices are fair.",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Joshua",
+                                    "gender": "male",
+                                    "id": "6585359",
+                                    "lastName": "Higgins",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/6585359-0UG0FFUUDWOKUQE0.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "agreeCount": 2,
+                                "authorInteractionType": "liked",
+                                "canonicalUrl": "https://foursquare.com/item/52f7dc42498e76f09261fd73",
+                                "createdAt": 1391975490,
+                                "disagreeCount": 0,
+                                "id": "52f7dc42498e76f09261fd73",
+                                "lang": "en",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [],
+                                    "summary": "2 Likes"
+                                },
+                                "logView": true,
+                                "saves": {
+                                    "count": 1,
+                                    "groups": [],
+                                    "summary": "1 Save"
+                                },
+                                "text": "Try a steam-punk: a unique bean from Todd Carmichael's global search for the best single origin coffees. A list of beans on hand is available along with brief descriptions. Digging Mexico Guerrero atm",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Izaak",
+                                    "gender": "male",
+                                    "id": "2471968",
+                                    "lastName": "Beekman",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/2471968-NSIB3OG2EBANF1YS"
+                                    }
+                                }
+                            },
+                            {
+                                "agreeCount": 1,
+                                "authorInteractionType": "liked",
+                                "canonicalUrl": "https://foursquare.com/item/54992f93498ec94b6597d44e",
+                                "createdAt": 1419325331,
+                                "disagreeCount": 0,
+                                "id": "54992f93498ec94b6597d44e",
+                                "justification": {
+                                    "justificationType": "expertise",
+                                    "message": "Expertise in Coffee Shops"
+                                },
+                                "lang": "en",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [],
+                                    "summary": "1 Like"
+                                },
+                                "logView": true,
+                                "saves": {
+                                    "count": 1,
+                                    "groups": [
+                                        {
+                                            "count": 1,
+                                            "items": [
+                                                {
+                                                    "id": "564e377cd9d8efb0ac276ba2",
+                                                    "sharedAt": 1447966588,
+                                                    "state": "saved",
+                                                    "type": "tip",
+                                                    "user": {
+                                                        "firstName": "Matthew",
+                                                        "gender": "male",
+                                                        "id": "39674273",
+                                                        "lastName": "Trowbridge",
+                                                        "photo": {
+                                                            "prefix": "https://igx.4sqi.net/img/user/",
+                                                            "suffix": "/39674273-BIMM2SZHR50TZOHO.jpg"
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            "type": "others"
+                                        }
+                                    ],
+                                    "summary": "1 Save"
+                                },
+                                "text": "La Colombe does a great job of sticking to quality and taste \u2013 regardless of location. From DC to NYC to Chicago, they're amazing. Can't go wrong with a cafe au laits & an almond croissant.",
+                                "type": "user",
+                                "user": {
+                                    "firstName": "Rohaina",
+                                    "gender": "female",
+                                    "id": "11153022",
+                                    "photo": {
+                                        "prefix": "https://igx.4sqi.net/img/user/",
+                                        "suffix": "/11153022-V0HKP0LBQO2DAPNN.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "name": "All tips",
+                        "type": "others"
+                    }
+                ]
+            },
+            "url": "http://www.lacolombe.com",
+            "venueChains": [
+                {
+                    "bestName": {
+                        "lang": "en",
+                        "name": "La Colombe Coffee"
+                    },
+                    "id": "556f4123bd6a007c773855e5",
+                    "logo": {
+                        "prefix": "https://igx.4sqi.net/img/user/",
+                        "suffix": "/4TZM55KBQ3YJQ0LX.png"
+                    }
+                }
+            ],
+            "verified": true
+        }
+    }
+}

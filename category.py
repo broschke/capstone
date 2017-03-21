@@ -1,7 +1,11 @@
 import urllib.request
 import json 
-import sqlite3
+import sqlite3 as lite
 from key import ID, SECRET
+from pprint import pprint
+
+con = lite.connect('foursquare.db')
+cur = con.cursor()
 
 CLIENT_ID = ID
 CLIENT_SECRET = SECRET
@@ -11,14 +15,24 @@ url = 'https://api.foursquare.com/v2/venues/categories?client_id='+ CLIENT_ID +'
 
 contents = urllib.request.urlopen(url).read()
 
-#print(contents)
-
 parsed = json.loads(contents)
+ 
 
-#for i in parsed['response']['categories']:
-#    print(i['id'])
-#print(i)
+def get_categories(data):
+    result = {}
+    for cat in data:
+        result[cat['id']] = cat['name']
+        if cat['categories']:
+            result.update(get_categories(cat['categories']))
+    return result
 
-#print(parsed['response'][0]['categories']['categories']['id'])
-for i in parsed['response']['categories']:
-    print(i['id'])
+categories = get_categories(parsed['response']['categories'])
+#pprint(categories)
+cat_tuple = [(k, v) for k, v in categories.items()]
+#print(cat_tuple)
+
+with con:
+    cur.executemany("INSERT INTO categories VALUES(?,?)", cat_tuple)
+
+con.commit()
+con.close()

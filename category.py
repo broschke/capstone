@@ -17,7 +17,6 @@ contents = urllib.request.urlopen(url).read()
 
 parsed = json.loads(contents)
  
-
 def get_categories(data):
     result = {}
     for cat in data:

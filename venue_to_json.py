@@ -1,15 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  2 17:23:16 2017
-
-@author: Bernardo.Roschke
-"""
-
+#! /usr/bin/env python
 import urllib.request
 import json 
 import pprint
-from pathlib import Path
-import os
+import sqlite3
 from key import ID, SECRET
 
 url_venue = "https://api.foursquare.com/v2/venues/"
@@ -23,24 +16,19 @@ url_composite = url_venue + venue_id + "?" + "client_id=" + CLIENT_ID + "&" + "c
 #print(url_composite)
 
 contents = urllib.request.urlopen(url_composite).read()
+#print(contents)
+
+db = sqlite3.connect('foursquare.db')
 
 parsed = json.loads(contents)
+#print(json.dumps(parsed, indent=4, sort_keys=True))
 
 id = parsed['response']['venue']['id']
 venue = parsed['response']['venue']['name']
+lat = parsed['response']['venue']['location']['lat']
+lng = parsed['response']['venue']['location']['lng']
 rating = parsed['response']['venue']['rating']
 checkins_count = parsed['response']['venue']['stats']['checkinsCount']
 users_count = parsed['response']['venue']['stats']['usersCount']
 
-venue_file = os.path.join(os.getcwd(),'venues.json')
-if not Path(venue_file).is_file():
-    file = open(venue_file,'x')
-    
-else:
-    file = open(venue_file,'w')
-
-venue_dict = {"id": id, "venue": venue, "rating": rating, "checkins_count": checkins_count, "users_count": users_count, "popular": checkins_count / users_count}
-
-json.dump(venue_dict, file)
-
-file.close()
+print(users_count)

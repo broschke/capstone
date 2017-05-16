@@ -1,0 +1,6 @@
+save venue ids to text files
+response by categories
+write to file, by checking each line if empty
+break up into small steps
+-save venue ids, test that it works on few values
+-test looping through and passing into api call for return

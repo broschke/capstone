@@ -20,7 +20,6 @@ v = "20140806"
 m = "foursquare"
 
 url_composite = url_venue + venue_id + "?" + "client_id=" + CLIENT_ID + "&" + "client_secret=" + CLIENT_SECRET + "&" + "v=" + v + "&" + "m=" + m
-#print(url_composite)
 
 contents = urllib.request.urlopen(url_composite).read()
 

@@ -1,0 +1,3391 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "591b99d31ed219305461963d"
+  },
+  "response": {
+    "suggestedFilters": {
+      "header": "Tap to show:",
+      "filters": [
+        {
+          "name": "$-$$$$",
+          "key": "price"
+        },
+        {
+          "name": "Open now",
+          "key": "openNow"
+        }
+      ]
+    },
+    "suggestedRadius": 985,
+    "headerLocation": "Near Northeast",
+    "headerFullLocation": "Near Northeast, Washington",
+    "headerLocationGranularity": "neighborhood",
+    "totalResults": 137,
+    "suggestedBounds": {
+      "ne": {
+        "lat": 38.90552834953487,
+        "lng": -76.99313576249327
+      },
+      "sw": {
+        "lat": 38.893864501528874,
+        "lng": -77.00730898764144
+      }
+    },
+    "groups": [
+      {
+        "type": "Recommended Places",
+        "name": "recommended",
+        "items": [
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e5eb03518a8c46e0839442e",
+              "name": "Yoga District",
+              "location": {
+                "address": "500 H St NE",
+                "lat": 38.900259968050825,
+                "lng": -76.99875718608152,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900259968050825,
+                    "lng": -76.99875718608152
+                  }
+                ],
+                "distance": 111,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "500 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d102941735",
+                  "name": "Yoga Studio",
+                  "pluralName": "Yoga Studios",
+                  "shortName": "Yoga Studio",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1313,
+                "usersCount": 275,
+                "tipCount": 4
+              },
+              "rating": 9.1,
+              "ratingSignals": 29,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "52723f2a11d2e7c2c26a6d33",
+                "createdAt": 1383218986,
+                "text": "Sign up online at yogadistrict.com before class for a smoother sign in process. Rental mats are $2 & Kelly is an awesome teacher!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/52723f2a11d2e7c2c26a6d33",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "2937702",
+                  "firstName": "Esther",
+                  "lastName": "Song",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/2937702-QC3GN133I5232N31.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4e5eb03518a8c46e0839442e-0"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "58bad0bf8927fd6926011d70",
+              "name": "Whole Foods Market",
+              "location": {
+                "address": "600 H St NE",
+                "crossStreet": "6th St NE",
+                "lat": 38.90035,
+                "lng": -76.997668,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90035,
+                    "lng": -76.997668
+                  }
+                ],
+                "distance": 205,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "600 H St NE (6th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d118951735",
+                  "name": "Grocery Store",
+                  "pluralName": "Grocery Stores",
+                  "shortName": "Grocery Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 578,
+                "usersCount": 247,
+                "tipCount": 6
+              },
+              "rating": 8.8,
+              "ratingSignals": 37,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 11:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "HST",
+              "hereNow": {
+                "count": 2,
+                "summary": "2 people are here",
+                "groups": [
+                  {
+                    "type": "others",
+                    "name": "Other people here",
+                    "count": 2,
+                    "items": []
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "590575524382ab10a7acb8eb",
+                "createdAt": 1493529938,
+                "text": "I've never been to a grocery that has a full bar, coffee bar, and juice bar. The carts come with cupholders so you can drink while you shop. So cool!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/590575524382ab10a7acb8eb",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "2100037",
+                  "firstName": "Nick",
+                  "lastName": "Johnson",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/RD31S45RFVRKYSRF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-58bad0bf8927fd6926011d70-1"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ba40feff964a5206e7d38e3",
+              "name": "Ethiopic",
+              "location": {
+                "address": "401 H St NE",
+                "lat": 38.90003430792673,
+                "lng": -77.00039505958557,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90003430792673,
+                    "lng": -77.00039505958557
+                  }
+                ],
+                "distance": 34,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "401 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d10a941735",
+                  "name": "Ethiopian Restaurant",
+                  "pluralName": "Ethiopian Restaurants",
+                  "shortName": "Ethiopian",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ethiopian_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 2068,
+                "usersCount": 1610,
+                "tipCount": 44
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.7,
+              "ratingSignals": 132,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4cc85bc93477b60cb4667b6a",
+                "createdAt": 1288199113,
+                "text": "A bit pricey, the kitfo is worth it!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4cc85bc93477b60cb4667b6a",
+                "likes": {
+                  "count": 5,
+                  "groups": [],
+                  "summary": "5 Likes"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "3549863",
+                  "firstName": "Barka",
+                  "lastName": "Shimelis",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/PKO3D1LDQGH5IM0W.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4ba40feff964a5206e7d38e3-2"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d704034812e2c0fd632ee7a",
+              "name": "Boundary Road Restaurant",
+              "location": {
+                "address": "414 H St NE",
+                "lat": 38.900284699861764,
+                "lng": -76.999808933037,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900284699861764,
+                    "lng": -76.999808933037
+                  }
+                ],
+                "distance": 35,
+                "postalCode": "20002-4336",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "414 H St NE",
+                  "Washington, D.C. 20002-4336",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d14e941735",
+                  "name": "American Restaurant",
+                  "pluralName": "American Restaurants",
+                  "shortName": "American",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 3804,
+                "usersCount": 1991,
+                "tipCount": 43
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.4,
+              "ratingSignals": 151,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 2:00 AM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "84900732"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51322400e4b02c445f052fde",
+                "createdAt": 1362240512,
+                "text": "The president and first lady hosted a fundraiser here on March 8, highlighting the Northeast corridor's dining options for the second time (Michelle Obama had previously dined at Sticky Rice).",
+                "type": "user",
+                "url": "http://www.washingtonpost.com/gog/restaurants/boundary-road,1224214.html",
+                "canonicalUrl": "https://foursquare.com/item/51322400e4b02c445f052fde",
+                "likes": {
+                  "count": 10,
+                  "groups": [],
+                  "summary": "10 Likes"
+                },
+                "logView": true,
+                "agreeCount": 10,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "3382674",
+                  "firstName": "Washington Post",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/Y3EIFI5SC2UWR11H.png"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4d704034812e2c0fd632ee7a-3"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5226643c7e48f5ecf8e3a77c",
+              "name": "Indigo",
+              "location": {
+                "address": "243 K St NE",
+                "crossStreet": "at 3rd St NE",
+                "lat": 38.90226362657529,
+                "lng": -77.00222969055176,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90226362657529,
+                    "lng": -77.00222969055176
+                  }
+                ],
+                "distance": 317,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "243 K St NE (at 3rd St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d10f941735",
+                  "name": "Indian Restaurant",
+                  "pluralName": "Indian Restaurants",
+                  "shortName": "Indian",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1623,
+                "usersCount": 760,
+                "tipCount": 34
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 9.1,
+              "ratingSignals": 160,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 9:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "84549393"
+              },
+              "hereNow": {
+                "count": 1,
+                "summary": "One other person is here",
+                "groups": [
+                  {
+                    "type": "others",
+                    "name": "Other people here",
+                    "count": 1,
+                    "items": []
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "52eaebb0498e1b6081f7a048",
+                "createdAt": 1391127472,
+                "text": "If you ever choose TD Burger over this place, you've failed as a human.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/52eaebb0498e1b6081f7a048",
+                "likes": {
+                  "count": 8,
+                  "groups": [],
+                  "summary": "8 Likes"
+                },
+                "logView": true,
+                "agreeCount": 8,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1645601",
+                  "firstName": "Tim",
+                  "lastName": "Smith",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/303Z4AMB05AGPU3R.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-5226643c7e48f5ecf8e3a77c-4"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bb25ac72397b713f2e636b3",
+              "name": "Metro Mutts",
+              "location": {
+                "address": "508 H St NE",
+                "lat": 38.90023664948909,
+                "lng": -76.99913964057347,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90023664948909,
+                    "lng": -76.99913964057347
+                  }
+                ],
+                "distance": 79,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "508 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d100951735",
+                  "name": "Pet Store",
+                  "pluralName": "Pet Stores",
+                  "shortName": "Pet Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pet_store_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 772,
+                "usersCount": 262,
+                "tipCount": 4
+              },
+              "rating": 8.4,
+              "ratingSignals": 17,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "84446969"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "529ce7ca11d250bcc225cacf",
+                "createdAt": 1386014666,
+                "text": "Great place to find all your doggie supplies. They also have quality cat stuff and they offer pet sitting and dog walking services.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/529ce7ca11d250bcc225cacf",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "10063726",
+                  "firstName": "Challys",
+                  "lastName": "Withers",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/10063726-HXLVHVRUJ2HR0312.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4bb25ac72397b713f2e636b3-5"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "576ab678498e7548532b8feb",
+              "name": "Fare Well",
+              "location": {
+                "address": "406 H St NE",
+                "lat": 38.900374,
+                "lng": -77.000176,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900374,
+                    "lng": -77.000176
+                  }
+                ],
+                "distance": 44,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "406 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1d3941735",
+                  "name": "Vegetarian / Vegan Restaurant",
+                  "pluralName": "Vegetarian / Vegan Restaurants",
+                  "shortName": "Vegetarian / Vegan",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 340,
+                "usersCount": 199,
+                "tipCount": 10
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 8.3,
+              "ratingSignals": 40,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:30 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5915ecac60255e5086646bae",
+                "createdAt": 1494609068,
+                "text": "The self-described neighborhood bakery, diner and bar in one offers much more than wifi and breakfast all day; there's also house-made plant-based cheeses and spreads.",
+                "type": "user",
+                "url": "https://dc.eater.com/maps/best-dc-cafes-free-wifi",
+                "canonicalUrl": "https://foursquare.com/item/5915ecac60255e5086646bae",
+                "photo": {
+                  "id": "5915ecaebed48311a14199b1",
+                  "createdAt": 1494609070,
+                  "source": {
+                    "name": "Foursquare Web",
+                    "url": "https://foursquare.com"
+                  },
+                  "prefix": "https://igx.4sqi.net/img/general/",
+                  "suffix": "/3343327_OObxT5QSONHyXeD0uh1ztm7r2UkHivJDG9me8kvjW64.jpg",
+                  "width": 1200,
+                  "height": 900,
+                  "visibility": "public"
+                },
+                "photourl": "https://igx.4sqi.net/img/general/original/3343327_OObxT5QSONHyXeD0uh1ztm7r2UkHivJDG9me8kvjW64.jpg",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "3343327",
+                  "firstName": "Eater",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/3343327-YQ1D52V3KK2RQLBU.png"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-576ab678498e7548532b8feb-6"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4a58a10df964a5209ab71fe3",
+              "name": "Sidamo Coffee & Tea",
+              "location": {
+                "address": "417 H St NE",
+                "crossStreet": "btwn 4th & 5th Sts. NE",
+                "lat": 38.900228648742925,
+                "lng": -76.9999157945175,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900228648742925,
+                    "lng": -76.9999157945175
+                  }
+                ],
+                "distance": 26,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "417 H St NE (btwn 4th & 5th Sts. NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 3253,
+                "usersCount": 1282,
+                "tipCount": 61
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.2,
+              "ratingSignals": 153,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 7:00 AM tomorrow",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4cb4ab1075ebb60ca453e4ad",
+                "createdAt": 1286908688,
+                "text": "The Chai Latte is to die for.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4cb4ab1075ebb60ca453e4ad",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1195316",
+                  "firstName": "Troy",
+                  "lastName": "Bennett",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/XBFPINC20W4VKMZX.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4a58a10df964a5209ab71fe3-7"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "500f0d79e4b031973ed6d258",
+              "name": "Le Grenier",
+              "location": {
+                "address": "502 H st NE",
+                "crossStreet": "at 5th St NE",
+                "lat": 38.900361,
+                "lng": -76.999243,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900361,
+                    "lng": -76.999243
+                  }
+                ],
+                "distance": 76,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "502 H st NE (at 5th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c4941735",
+                  "name": "Restaurant",
+                  "pluralName": "Restaurants",
+                  "shortName": "Restaurant",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1508,
+                "usersCount": 955,
+                "tipCount": 32
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.2,
+              "ratingSignals": 115,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "46466405"
+              },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "500f0de3e4b0ea1f8091c9b4",
+                "createdAt": 1343163875,
+                "text": "Opening in just a few weeks!!!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/500f0de3e4b0ea1f8091c9b4",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "6540192",
+                  "firstName": "Sam",
+                  "lastName": "Ziar",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/L2JAC4WG4ATT5F2U.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-500f0d79e4b031973ed6d258-8"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "53b49681498e09de3ddd8d89",
+              "name": "Micho's Lebanese Grill",
+              "location": {
+                "address": "500 H St NE",
+                "crossStreet": "at 5th St NE",
+                "lat": 38.900376,
+                "lng": -76.999419,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900376,
+                    "lng": -76.999419
+                  }
+                ],
+                "distance": 65,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "500 H St NE (at 5th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d115941735",
+                  "name": "Middle Eastern Restaurant",
+                  "pluralName": "Middle Eastern Restaurants",
+                  "shortName": "Middle Eastern",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 351,
+                "usersCount": 191,
+                "tipCount": 4
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.2,
+              "ratingSignals": 22,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5862c2ff9836313406ce5305",
+                "createdAt": 1482867455,
+                "text": "Excellent Falafel and excellent lager beer!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5862c2ff9836313406ce5305",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "58251275",
+                  "firstName": "Juan Carlos",
+                  "lastName": "Salazar",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/58251275-2YDXPNATAR2GEUQZ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-53b49681498e09de3ddd8d89-9"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "56d1deb7cd10b98f4cbb3c01",
+              "name": "Nando's Peri-Peri",
+              "location": {
+                "address": "411-413 H St NE",
+                "lat": 38.900044744974856,
+                "lng": -77.00008660554886,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900044744974856,
+                    "lng": -77.00008660554886
+                  }
+                ],
+                "distance": 9,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "411-413 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4def73e84765ae376e57713a",
+                  "name": "Portuguese Restaurant",
+                  "pluralName": "Portuguese Restaurants",
+                  "shortName": "Portuguese",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/portuguese_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 398,
+                "usersCount": 203,
+                "tipCount": 2
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 8.1,
+              "ratingSignals": 22,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58c8181618fd2b3b09f9d9a8",
+                "createdAt": 1489508374,
+                "text": "The chicken and wings are bomb!!!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58c8181618fd2b3b09f9d9a8",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "93320327",
+                  "firstName": "Jay",
+                  "lastName": "Alston",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/blank_boy.png",
+                    "default": true
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-56d1deb7cd10b98f4cbb3c01-10"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b5e2236f964a5207b7f29e3",
+              "name": "Hot Yoga Capitol Hill",
+              "location": {
+                "address": "410 H St NE",
+                "lat": 38.900171055715134,
+                "lng": -76.99998891021316,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900171055715134,
+                    "lng": -76.99998891021316
+                  }
+                ],
+                "distance": 19,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "410 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d102941735",
+                  "name": "Yoga Studio",
+                  "pluralName": "Yoga Studios",
+                  "shortName": "Yoga Studio",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 3516,
+                "usersCount": 392,
+                "tipCount": 7
+              },
+              "rating": 8.1,
+              "ratingSignals": 24,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "83936821"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "508a8cc7e4b086e5990ffea8",
+                "createdAt": 1351257287,
+                "text": "Take a class with Pierre, he is amazing!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/508a8cc7e4b086e5990ffea8",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "11854314",
+                  "firstName": "Julie",
+                  "lastName": "Janovsky",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/1BE3LXXBVU1WEWNI.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4b5e2236f964a5207b7f29e3-11"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "584d704be7f1cf64e9d23e93",
+              "name": "The Wydown",
+              "location": {
+                "address": "600 H St NE",
+                "crossStreet": "at 6th St NE",
+                "lat": 38.90037246750591,
+                "lng": -76.99778795242308,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90037246750591,
+                    "lng": -76.99778795242308
+                  }
+                ],
+                "distance": 196,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "600 H St NE (at 6th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 234,
+                "usersCount": 106,
+                "tipCount": 1
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 8.1,
+              "ratingSignals": 11,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58ae151fecb67e34d7709ac3",
+                "createdAt": 1487803679,
+                "text": "Order a latte and get some nice latte art!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58ae151fecb67e34d7709ac3",
+                "photo": {
+                  "id": "58ae1520f2299529b34abefb",
+                  "createdAt": 1487803680,
+                  "source": {
+                    "name": "Foursquare for Android",
+                    "url": "https://foursquare.com/download/#/android"
+                  },
+                  "prefix": "https://igx.4sqi.net/img/general/",
+                  "suffix": "/1939871_Ly-nj3mXuRrkhBM8MQtOSqyYXEVKfhtzNCWGSuSYNwQ.jpg",
+                  "width": 1080,
+                  "height": 1080,
+                  "visibility": "public"
+                },
+                "photourl": "https://igx.4sqi.net/img/general/original/1939871_Ly-nj3mXuRrkhBM8MQtOSqyYXEVKfhtzNCWGSuSYNwQ.jpg",
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Feb 22",
+                "lastUpvoteTimestamp": 1487803697,
+                "user": {
+                  "id": "1939871",
+                  "firstName": "DC Dining Adventures",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/1939871-GKWGAJJUHEOK35WS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-584d704be7f1cf64e9d23e93-12"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e75086a1838f91889ab8423",
+              "name": "The Big Board",
+              "location": {
+                "address": "421 H St NE",
+                "crossStreet": "at 5th St. NE",
+                "lat": 38.900057269430604,
+                "lng": -76.99974328279494,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900057269430604,
+                    "lng": -76.99974328279494
+                  }
+                ],
+                "distance": 23,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "421 H St NE (at 5th St. NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16c941735",
+                  "name": "Burger Joint",
+                  "pluralName": "Burger Joints",
+                  "shortName": "Burgers",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 4912,
+                "usersCount": 2301,
+                "tipCount": 61
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 7.9,
+              "ratingSignals": 171,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 2:00 AM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "83925364"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4fbae56ae4b01b3b56d247dd",
+                "createdAt": 1337648490,
+                "text": "The Great Chicago Fire is great! If you like a spicy burger, look no further! The side of mango-habañero salsa gives it an even bigger kick! Don't forget salt & pepper fries on the side!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4fbae56ae4b01b3b56d247dd",
+                "likes": {
+                  "count": 6,
+                  "groups": [],
+                  "summary": "6 Likes"
+                },
+                "logView": true,
+                "agreeCount": 6,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1939871",
+                  "firstName": "DC Dining Adventures",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/1939871-GKWGAJJUHEOK35WS.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4e75086a1838f91889ab8423-13"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5588a8d7498ed813e13b4f21",
+              "name": "barre3 DC - Union Station",
+              "location": {
+                "address": "701 2nd St NE",
+                "lat": 38.89949872446709,
+                "lng": -77.00353778067388,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89949872446709,
+                    "lng": -77.00353778067388
+                  }
+                ],
+                "distance": 311,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "701 2nd St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d175941735",
+                  "name": "Gym / Fitness Center",
+                  "pluralName": "Gyms or Fitness Centers",
+                  "shortName": "Gym / Fitness",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 336,
+                "usersCount": 51,
+                "tipCount": 1
+              },
+              "rating": 8.1,
+              "ratingSignals": 9,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 6:15 AM tomorrow",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "71",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "573cd05d498edc053d35aa7c",
+                "createdAt": 1463603293,
+                "text": "Very friendly staff who make you feel at ease and excited for class. Clean, cute facility with a shower and bathroom with community toiletries. Great, hard, body-fixing workout, too!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/573cd05d498edc053d35aa7c",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "4716489",
+                  "firstName": "Lynn",
+                  "lastName": "Romano",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/UNTWXDMBLTFTIVCY.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-5588a8d7498ed813e13b4f21-14"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "574f3962498e36edd3c3f2ac",
+              "name": "Craft Beer Cellar DC",
+              "location": {
+                "address": "301 H St NE",
+                "lat": 38.899968,
+                "lng": -77.001748,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.899968,
+                    "lng": -77.001748
+                  }
+                ],
+                "distance": 151,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "301 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "5370f356bcbc57f1066c94c2",
+                  "name": "Beer Store",
+                  "pluralName": "Beer Stores",
+                  "shortName": "Beer Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 189,
+                "usersCount": 100,
+                "tipCount": 1
+              },
+              "rating": 7.8,
+              "ratingSignals": 9,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "57ae52cd498e1d770a43d3fb",
+                "createdAt": 1471042253,
+                "text": "Amazing new beer store with a great selection. Lots of options!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/57ae52cd498e1d770a43d3fb",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "144",
+                  "firstName": "heather",
+                  "lastName": "dougherty",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/144_1233872935.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-574f3962498e36edd3c3f2ac-15"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ef12e0ce5faee87cb16521f",
+              "name": "Khepra's Raw Food Juice Bar",
+              "location": {
+                "address": "402 H St NE",
+                "crossStreet": "at 4th St NE",
+                "lat": 38.900285003766314,
+                "lng": -77.00039385788448,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900285003766314,
+                    "lng": -77.00039385788448
+                  }
+                ],
+                "distance": 46,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "402 H St NE (at 4th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1d3941735",
+                  "name": "Vegetarian / Vegan Restaurant",
+                  "pluralName": "Vegetarian / Vegan Restaurants",
+                  "shortName": "Vegetarian / Vegan",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 677,
+                "usersCount": 343,
+                "tipCount": 14
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 7.8,
+              "ratingSignals": 29,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 11:00 AM tomorrow",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "85425521"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "50f3460ee4b04815ee9379c5",
+                "createdAt": 1358120462,
+                "text": "We had the 1 entree w/all sides $15 and a gojiberry juice $9 It was enough for 2 got to taste all sides. The juice was a bit watery for my taste but the food was FANTASTIC! We loved evrythng we tried.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50f3460ee4b04815ee9379c5",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "26666727",
+                  "firstName": "Denise",
+                  "lastName": "E",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/26666727-23MWPF5PSEKTGH2H.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4ef12e0ce5faee87cb16521f-16"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "555e5cd3498ea2e6725359d6",
+              "name": "Union Kitchen Grocery",
+              "location": {
+                "address": "538 3rd St NE",
+                "lat": 38.89717048184087,
+                "lng": -77.00210924624042,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89717048184087,
+                    "lng": -77.00210924624042
+                  }
+                ],
+                "distance": 364,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "538 3rd St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "50be8ee891d4fa8dcc7199a7",
+                  "name": "Market",
+                  "pluralName": "Markets",
+                  "shortName": "Market",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/market_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 492,
+                "usersCount": 170,
+                "tipCount": 4
+              },
+              "rating": 8.1,
+              "ratingSignals": 41,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58af351314fb41537bc5c245",
+                "createdAt": 1487877395,
+                "text": "The bagels here are really terrible.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58af351314fb41537bc5c245",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "6898536",
+                  "firstName": "JL",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/4UTSO5NDVICZWZPK.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-555e5cd3498ea2e6725359d6-17"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bff0c24e584c92860ae6d25",
+              "name": "Taste of Jamaica",
+              "location": {
+                "address": "528 H St NE",
+                "lat": 38.90026948333333,
+                "lng": -76.99844135,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90026948333333,
+                    "lng": -76.99844135
+                  }
+                ],
+                "distance": 138,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "528 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d144941735",
+                  "name": "Caribbean Restaurant",
+                  "pluralName": "Caribbean Restaurants",
+                  "shortName": "Caribbean",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/caribbean_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 324,
+                "usersCount": 196,
+                "tipCount": 7
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 7.6,
+              "ratingSignals": 10,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4c007c2c70c603bb11699db4",
+                "createdAt": 1275100204,
+                "text": "The Jerk Chicken",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4c007c2c70c603bb11699db4",
+                "likes": {
+                  "count": 4,
+                  "groups": [],
+                  "summary": "4 Likes"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1323485",
+                  "firstName": "Gourmet",
+                  "lastName": "Cherry",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/ECYOWV0M3YHVWQZB.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4bff0c24e584c92860ae6d25-18"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "53b1c518498e46c70e6046d8",
+              "name": "Po Boy Jim",
+              "location": {
+                "address": "709 H St NE",
+                "lat": 38.90009,
+                "lng": -76.995744,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.90009,
+                    "lng": -76.995744
+                  }
+                ],
+                "distance": 368,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "709 H St NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d17a941735",
+                  "name": "Cajun / Creole Restaurant",
+                  "pluralName": "Cajun / Creole Restaurants",
+                  "shortName": "Cajun / Creole",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 698,
+                "usersCount": 480,
+                "tipCount": 15
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 7.9,
+              "ratingSignals": 69,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "96145206"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "5431f67b498eb82750dc9282",
+                "createdAt": 1412560507,
+                "text": "Had the Catfish PoBoy and Yardee PoBoy, both were excellent! Service was great and so were the drinks! Best beignets in the area too!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5431f67b498eb82750dc9282",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "17602098",
+                  "firstName": "Akil",
+                  "lastName": "Burton",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/L3F32DGDUVPDDCEH.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-53b1c518498e46c70e6046d8-19"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "57f5a885498ef66f043ff2b1",
+              "name": "Bens Upstairs",
+              "location": {
+                "lat": 38.900112,
+                "lng": -76.99378,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900112,
+                    "lng": -76.99378
+                  }
+                ],
+                "distance": 539,
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "Washington, D.C.",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d14e941735",
+                  "name": "American Restaurant",
+                  "pluralName": "American Restaurants",
+                  "shortName": "American",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 106,
+                "usersCount": 87,
+                "tipCount": 3
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 8.5,
+              "ratingSignals": 13,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58aa21d24287c951279eb913",
+                "createdAt": 1487544786,
+                "text": "Great brunch and rooftop views. Smoker friendly for cigars too.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58aa21d24287c951279eb913",
+                "photo": {
+                  "id": "58aa21d3e9233e6cb70aabc8",
+                  "createdAt": 1487544787,
+                  "source": {
+                    "name": "Foursquare for iOS",
+                    "url": "https://foursquare.com/download/#/iphone"
+                  },
+                  "prefix": "https://igx.4sqi.net/img/general/",
+                  "suffix": "/597332_3zwstT5-1MWzXJG-tA8ArJht-rc8D20nVzjbg7pigR4.jpg",
+                  "width": 1440,
+                  "height": 1920,
+                  "visibility": "public"
+                },
+                "photourl": "https://igx.4sqi.net/img/general/original/597332_3zwstT5-1MWzXJG-tA8ArJht-rc8D20nVzjbg7pigR4.jpg",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "597332",
+                  "firstName": "Derek",
+                  "lastName": "Gaskins",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/HZOWOHLY4FHOE1XH.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-57f5a885498ef66f043ff2b1-20"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "54da7c65498ea900ba54771f",
+              "name": "Addis Ethiopian Restaurant",
+              "location": {
+                "address": "707 H St NE",
+                "crossStreet": "at 7th St NE",
+                "lat": 38.900206033941075,
+                "lng": -76.99582686980442,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900206033941075,
+                    "lng": -76.99582686980442
+                  }
+                ],
+                "distance": 362,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "707 H St NE (at 7th St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d10a941735",
+                  "name": "Ethiopian Restaurant",
+                  "pluralName": "Ethiopian Restaurants",
+                  "shortName": "Ethiopian",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ethiopian_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 120,
+                "usersCount": 93,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 7.9,
+              "ratingSignals": 8,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "referralId": "e-0-54da7c65498ea900ba54771f-21"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ae0ba13f964a520fa8121e3",
+              "name": "Schneiders of Capitol Hill",
+              "location": {
+                "address": "300 Massachusetts Ave NE",
+                "lat": 38.894614943651376,
+                "lng": -77.00152432965453,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.894614943651376,
+                    "lng": -77.00152432965453
+                  }
+                ],
+                "distance": 613,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "300 Massachusetts Ave NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d186941735",
+                  "name": "Liquor Store",
+                  "pluralName": "Liquor Stores",
+                  "shortName": "Liquor Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 2390,
+                "usersCount": 981,
+                "tipCount": 16
+              },
+              "rating": 8.9,
+              "ratingSignals": 82,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Likely open",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "84755407"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4f1b3ff3e4b0065cbaa17c55",
+                "createdAt": 1327185907,
+                "text": "It may look like a hoarder’s attic, bu you’ll find one of the city’ best win selections here as well as some of the most helpful staff on the planet.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f1b3ff3e4b0065cbaa17c55",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 Likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "20262017",
+                  "firstName": "The Hill is Home",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/ETQHH4XDPQGPNYZU.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4ae0ba13f964a520fa8121e3-22"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "57ff81e1d67cb371d0c07568",
+              "name": "REI",
+              "location": {
+                "address": "201 M Street NE",
+                "lat": 38.9049981746255,
+                "lng": -77.00295456931156,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.9049981746255,
+                    "lng": -77.00295456931156
+                  }
+                ],
+                "distance": 612,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "201 M Street NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d115951735",
+                  "name": "Bike Shop",
+                  "pluralName": "Bike Shops",
+                  "shortName": "Bike Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 741,
+                "usersCount": 454,
+                "tipCount": 4
+              },
+              "rating": 8.8,
+              "ratingSignals": 39,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 9:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "58ea997f26a4071d12ac8d95",
+                "createdAt": 1491769727,
+                "text": "Awesome knowledgeable staff, co-op structure, dividends on all purchases",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/58ea997f26a4071d12ac8d95",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "641417",
+                  "firstName": "Chris",
+                  "lastName": "Rieth",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/641417_xWRFaw6U_UdriOFwU2O7TL6ohmdRwoFJNOMlDI7T2m_TpaYHaIIhaMEJhdfpWDbq4QzB1GwPF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-57ff81e1d67cb371d0c07568-23"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4a7793e2f964a520d7e41fe3",
+              "name": "Cafe Berlin On Capitol Hill",
+              "location": {
+                "address": "322 Massachusetts Ave NE",
+                "lat": 38.89439467643823,
+                "lng": -77.00103502226953,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89439467643823,
+                    "lng": -77.00103502226953
+                  }
+                ],
+                "distance": 630,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "322 Massachusetts Ave NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d10d941735",
+                  "name": "German Restaurant",
+                  "pluralName": "German Restaurants",
+                  "shortName": "German",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1752,
+                "usersCount": 1200,
+                "tipCount": 18
+              },
+              "price": {
+                "tier": 3,
+                "message": "Expensive",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.7,
+              "ratingSignals": 71,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "86379458"
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4b9fe42170c603bb839994b4",
+                "createdAt": 1268769825,
+                "text": "A sunny afternoon on the patio with a hefeweizen or a good German pils is as close to gemütlichkeit as you will get in Washington.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4b9fe42170c603bb839994b4",
+                "likes": {
+                  "count": 5,
+                  "groups": [],
+                  "summary": "5 Likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "58328",
+                  "firstName": "Christopher",
+                  "lastName": "Boesen",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/KU25KLQENJXEITO4.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4a7793e2f964a520d7e41fe3-24"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4f9fdceae4b0efa846970fa0",
+              "name": "Roti Mediterranean Grill",
+              "location": {
+                "address": "50 Massachusetts Ave NE",
+                "crossStreet": "in Union Station",
+                "lat": 38.89734997065399,
+                "lng": -77.0066647501347,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89734997065399,
+                    "lng": -77.0066647501347
+                  }
+                ],
+                "distance": 648,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "50 Massachusetts Ave NE (in Union Station)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c0941735",
+                  "name": "Mediterranean Restaurant",
+                  "pluralName": "Mediterranean Restaurants",
+                  "shortName": "Mediterranean",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 2401,
+                "usersCount": 993,
+                "tipCount": 24
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 8.7,
+              "ratingSignals": 100,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "523f67b1498ef9334a19681a",
+                "createdAt": 1379887025,
+                "text": "Great customer service. Had to wait three minutes for rice, so they offered me a free drink and cookie to make up for it!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/523f67b1498ef9334a19681a",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "7034990",
+                  "firstName": "Sasha",
+                  "lastName": "G",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/RCO4I2EOH0LR5SIA.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4f9fdceae4b0efa846970fa0-25"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c44f278429a0f474a84491e",
+              "name": "Neuhaus Chocolatier",
+              "location": {
+                "address": "Union Station",
+                "lat": 38.89796455016396,
+                "lng": -77.00651852673953,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89796455016396,
+                    "lng": -77.00651852673953
+                  }
+                ],
+                "distance": 608,
+                "postalCode": "20001",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "Union Station",
+                  "Washington, D.C. 20001",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d117951735",
+                  "name": "Candy Store",
+                  "pluralName": "Candy Stores",
+                  "shortName": "Candy Store",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 253,
+                "usersCount": 168,
+                "tipCount": 3
+              },
+              "rating": 8.4,
+              "ratingSignals": 16,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4cb8b950c7228cfaa2d50ace",
+                "createdAt": 1287174480,
+                "text": "Try any of the truffles. My childhood favorite",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4cb8b950c7228cfaa2d50ace",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 Like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "1021924",
+                  "firstName": "Omar",
+                  "lastName": "Masri",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/DJJYZ02L0DPCHE0F.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c44f278429a0f474a84491e-26"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50e77804e4b0124eb51dcee8",
+              "name": "Hikari Sushi & Sake Bar",
+              "location": {
+                "address": "644 H Street, NE",
+                "lat": 38.900209432357144,
+                "lng": -76.99674365581343,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.900209432357144,
+                    "lng": -76.99674365581343
+                  }
+                ],
+                "distance": 283,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "644 H Street, NE",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1d2941735",
+                  "name": "Sushi Restaurant",
+                  "pluralName": "Sushi Restaurants",
+                  "shortName": "Sushi",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1932,
+                "usersCount": 599,
+                "tipCount": 18
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 7.5,
+              "ratingSignals": 74,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 11:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "51bb3dda498e199e3bd2d30d",
+                "createdAt": 1371225562,
+                "text": "See Jeremy at the bar every Friday & Saturday 11:30 AM - Close.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51bb3dda498e199e3bd2d30d",
+                "likes": {
+                  "count": 13,
+                  "groups": [],
+                  "summary": "13 Likes"
+                },
+                "logView": true,
+                "agreeCount": 13,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "9870018",
+                  "firstName": "Jeremy",
+                  "lastName": "Quarless-Cole",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/9870018-U2TQKKZOU0AJ1CGT.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-50e77804e4b0124eb51dcee8-27"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "445f0758f964a520fd321fe3",
+              "name": "Ebenezers Coffeehouse",
+              "location": {
+                "address": "201 F St NE",
+                "crossStreet": "at 2nd St NE",
+                "lat": 38.89732406503608,
+                "lng": -77.00350403595984,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.89732406503608,
+                    "lng": -77.00350403595984
+                  }
+                ],
+                "distance": 425,
+                "postalCode": "20002",
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "201 F St NE (at 2nd St NE)",
+                  "Washington, D.C. 20002",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0931735",
+                  "name": "Coffee Shop",
+                  "pluralName": "Coffee Shops",
+                  "shortName": "Coffee Shop",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 7669,
+                "usersCount": 3234,
+                "tipCount": 74
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 7.8,
+              "ratingSignals": 279,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 9:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "venuePage": {
+                "id": "83873398"
+              },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "4ca35281b0ff8cfaf733b65e",
+                "createdAt": 1285771905,
+                "text": "If you're looking for a \"west coast\" style coffee house, look no further... Ebenezer's serves it up right! Come in, relax, have a good conversation...",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4ca35281b0ff8cfaf733b65e",
+                "likes": {
+                  "count": 6,
+                  "groups": [],
+                  "summary": "6 Likes"
+                },
+                "logView": true,
+                "agreeCount": 6,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "3218161",
+                  "firstName": "Josh",
+                  "lastName": "Weir",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/0UUGRG4R0XPSV3R4.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-445f0758f964a520fd321fe3-28"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "53a825e6498e2e83a4545ffa",
+              "name": "Shake Shack",
+              "location": {
+                "address": "50 Massachusetts Avenue NE",
+                "lat": 38.897273052213706,
+                "lng": -77.0065691425501,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 38.897273052213706,
+                    "lng": -77.0065691425501
+                  }
+                ],
+                "distance": 645,
+                "cc": "US",
+                "city": "Washington",
+                "state": "D.C.",
+                "country": "United States",
+                "formattedAddress": [
+                  "50 Massachusetts Avenue NE",
+                  "Washington, D.C.",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16c941735",
+                  "name": "Burger Joint",
+                  "pluralName": "Burger Joints",
+                  "shortName": "Burgers",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 3531,
+                "usersCount": 2467,
+                "tipCount": 38
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 8.5,
+              "ratingSignals": 214,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 10:00 PM",
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "tips": [
+              {
+                "id": "54add5a2498e71f9221e0147",
+                "createdAt": 1420678562,
+                "text": "Batata frita com queijo é sensacional!!!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/54add5a2498e71f9221e0147",
+                "likes": {
+                  "count": 2,
+                  "groups": [],
+                  "summary": "2 Likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "user": {
+                  "id": "4209576",
+                  "firstName": "Fernando Viana",
+                  "lastName": "Martins",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/4209576-MCYP52WZ3AX5KKFJ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-53a825e6498e2e83a4545ffa-29"
+          }
+        ]
+      }
+    ]
+  }
+}

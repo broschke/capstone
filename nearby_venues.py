@@ -17,7 +17,7 @@ CLIENT_SECRET = SECRET
 
 url_venue = "https://api.foursquare.com/v2/venues/explore?"
 near = 'll=38.9,-77.0'
-radius = '500'
+radius = '1'
 v = "20140806"
 m = "foursquare"
 
@@ -26,4 +26,13 @@ contents = urllib.request.urlopen(url_composite).read()
 
 parsed = json.loads(contents)
 
-pprint.pprint(parsed)
+#id = parsed['response']['groups'][0]['items'][0]['venue']['id']
+id = parsed['response']['groups'][0]['items']
+
+for i in id:
+    print(i['venue']['id'])
+
+#pprint.pprint(parsed)
+
+#print(id)
+#print(url_composite)
